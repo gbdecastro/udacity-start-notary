@@ -1,3 +1,6 @@
+Your ERC-721 Token Name: Star Global Registry Your ERC-721 Token Symbol: SGR Version of the Truffle and OpenZeppelin used: truffle(5.10.2) and @openzeppelin/contracts(4.9.2) Your Token Address on the Rinkeby Network: Contract Address 0xd2fb7b0edA354581E54eB0FfD2790369d35ea735
+
+
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
